@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: greensboro-jewish-history-tour
+title: "greensboro-jewish-history-tour"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: materials used to create and promote a community project with the Greensboro History Museum
+tagline: "materials used to create and promote a community project with the Greensboro History Museum"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This site documents the materials by Kennedy Gray to develop and promote an accessible Jewish history tour of Greensboro, North Carolina"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Kennedy Gray
+author: "Kennedy Gray"
 
 ##########
 # COLLECTION SETTINGS
